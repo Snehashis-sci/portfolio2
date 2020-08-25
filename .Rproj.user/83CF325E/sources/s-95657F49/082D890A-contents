@@ -65,8 +65,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
+    text1 = "Snehashis"
+    text2 = "Debnath"
 
   [params.footer]
       copyright = "© Raditian. All rights reserved."
