@@ -3,22 +3,22 @@
     "path": "E:/Data science online course/portfolio2/data/homepage.yml",
     "project_path": "data/homepage.yml",
     "type": "yaml",
-    "hash": "287988942",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1598390567854.0,
     "source_on_save": false,
     "relative_order": 12,
     "properties": {
-        "cursorPosition": "105,15",
-        "scrollLine": "103"
+        "cursorPosition": "194,11",
+        "scrollLine": "170"
     },
     "folds": "",
-    "lastKnownWriteTime": 1598399122,
+    "lastKnownWriteTime": 1598400189,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1598399122699,
+    "last_content_update": 1598400189672,
     "read_only": false,
     "read_only_alternatives": []
 }

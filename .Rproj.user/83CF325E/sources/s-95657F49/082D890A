@@ -3,22 +3,22 @@
     "path": "E:/Data science online course/portfolio2/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "3164494829",
+    "hash": "2099090119",
     "contents": "",
     "dirty": false,
     "created": 1598391664816.0,
     "source_on_save": false,
     "relative_order": 11,
     "properties": {
-        "cursorPosition": "68,20",
+        "cursorPosition": "62,114",
         "scrollLine": "45"
     },
     "folds": "",
-    "lastKnownWriteTime": 1598397794,
+    "lastKnownWriteTime": 1598399917,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1598397794643,
+    "last_content_update": 1598399917956,
     "read_only": false,
     "read_only_alternatives": []
 }

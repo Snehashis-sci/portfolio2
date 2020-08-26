@@ -165,6 +165,9 @@ testimonial:
       image:
         x: "img/testimonials/antonio-willis.jpg"
         _2x: "img/testimonials/antonio-willis@2x.jpg"
+        
+
+
 
 # contact
 contact:
