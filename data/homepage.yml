@@ -13,38 +13,28 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "https://www.linkedin.com/in/snehashis-debnath/"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com/in/snehashis-debnath/"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/Snehashis-sci"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
+      URL: "https://twitter.com/SNDN_rupam"
 
     - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+      URL: "https://www.youtube.com/channel/UCKLYkhlIy_plEQIqcbcjFIg?view_as=subscriber"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+      URL: "https://www.instagram.com/snehashis_sndn/"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
+      URL: "https://www.facebook.com/rsndn"
 
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+   
 
 # about
 about:
@@ -143,28 +133,16 @@ client_and_work:
 # testimonial
 testimonial:
   enable: true
-  title: "Testimonials"
+  title: "Acknowledgement"
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+    - name: "Softanbees Technologies Pvt. Ltd."
+      position: "West Bengal, India"
+      content: "I have started my data science journey with Softanbees since april 2020. Since then i have never regretted for the action i have taken so far. The training session really helped me to find myself into a new dimension of possibilities. And now that i am working with them, i have got opportunity to find some industrial insights in close proximity. That's why i am always greatful to Softanbees Technologies Pvt. Ltd. for enabling such skill development program."
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+        x: "img/testimonials/softanlogo.png"
+        _2x: "img/testimonials/softanlogo.png"
 
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
-      image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
-
-    - name: "Antonio Willis"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-      image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
+    
         
 
 
@@ -175,18 +153,18 @@ contact:
   title: "Contact"
   form:
     action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
+    full_name: "Snehashis Debnath"
+    email: "rupam.sdnath@gmail.com"
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "+8801755591718"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:rupam.sdnath@gmail.com">rupam.sdnath@gmail.com</a>'
   address:
     title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    address: "Dhaka<br />Bangladesh"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"

@@ -69,7 +69,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     text2 = "Debnath"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "© Snehashis. All rights reserved."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
